@@ -1,5 +1,4 @@
 *.obj
-*.exe
 *.layout
 *.depend
 obj/
